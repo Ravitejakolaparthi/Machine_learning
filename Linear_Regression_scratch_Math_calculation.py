@@ -5,7 +5,7 @@ n = x.size
 
 w = 0
 b = 0
-learning_rate = 1
+learning_rate = 1 # gives less variation
 
 for i in range(20):
     # prdections
